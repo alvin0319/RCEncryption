@@ -3,7 +3,7 @@
 # Some settings may dangerous to edit, Do not touch it if you don't know what you are doing.
 
 
-# The resource pack encryption key you got from https://encryptmypack.com.
+# You should get the resource pack encryption key from https://encryptmypack.com first.
 # The format should be look like this:
 # encrption-keys:
 #   my_awesome_encrypted_pack.zip: encryption_key

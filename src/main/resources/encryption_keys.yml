@@ -1,0 +1,11 @@
+# RCEncryption plugin configuration file.
+# The content of this file may be changed at anytime, and it could break the plugin load.
+# Some settings may dangerous to edit, Do not touch it if you don't know what you are doing.
+
+
+# The resource pack encryption key you got from https://encryptmypack.com.
+# The format should be look like this:
+# encrption-keys:
+#   my_awesome_encrypted_pack.zip: encryption_key
+
+encryption-keys: []

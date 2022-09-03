@@ -1,0 +1,5 @@
+name: RCEncryption
+author: alvin0319
+main: dev.minjae.rcencryption.Loader
+version: 1.0.0
+api: 1.0.14

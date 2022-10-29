@@ -1,3 +1,5 @@
+# Deprecated
+This will be implemented in [Cloudburst/Nukkit#2072](https://github.com/CloudburstMC/Nukkit/pull/2072)
 # RCEncryption
 A Nukkit plugin to enable resource pack encryption for your server.
 
